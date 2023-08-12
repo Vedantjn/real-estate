@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Radisson Blu",
+    "price": "47,043",
+    "detail": "Vijaynagar, near Bombay Hospital, Indore",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Sayagi",
+    "price": "66,353",
+    "detail": "Bapat Squrare, Vijaynagar, Indore",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Sheraton Grand",
+    "price": "35,853",
+    "detail": "Ruko Puri Indah Residence Block A7, Indore",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Jardin",
+    "price": "47,043",
+    "detail": "Jakarta Timur, Indore",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "66,353",
+    "detail": "Pahlawan Street XVII No.215, Indore",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Phoenix Citadel",
+    "price": "35,853",
+    "detail": "Ruko Puri Banten, Indore",
+    "image": "./r3.png"
+  }
+]
